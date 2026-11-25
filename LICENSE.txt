@@ -1,0 +1,8 @@
+SimButtonbox — proprietary software
+Copyright (c) 2026 standby929. All rights reserved.
+
+Permission is granted to download, install and use officially distributed SimButtonbox Windows binaries free of charge for their intended purpose. This permission does not grant rights to the proprietary source code or to redistribute, sell, sublicense or modify the software, except where permitted by applicable law or separately authorized in writing.
+
+Third-party components remain subject to their own licenses; nothing in these terms limits rights granted by those licenses or mandatory statutory rights.
+
+To the extent permitted by applicable law, the software is provided as is, without voluntary warranties. Nothing in these terms excludes liability or consumer rights that cannot lawfully be excluded.
