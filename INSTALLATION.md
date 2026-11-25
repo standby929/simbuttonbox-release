@@ -1,4 +1,4 @@
-# Windows setup
+﻿# Windows setup
 
 ## Requirements
 
@@ -8,7 +8,7 @@
 
 ## Install and connect
 
-1. Download the Windows ZIP from the [Releases page](https://github.com/standby929/simbuttonbox-releases/releases) when available. Extract the entire archive into a dedicated folder; keep all included files together.
+1. Download the Windows ZIP from the [Releases page](https://github.com/standby929/simbuttonbox-release/releases) when available. Extract the entire archive into a dedicated folder; keep all included files together.
 2. Install a compatible vJoy driver from https://vjoy.pro/. Restart if requested. In Configure vJoy, enable device 1 and configure 128 buttons. Check the device with `joy.cpl`.
 3. Start `SimButtonbox.NativeHelper.exe`. If Windows shows a security warning, verify the origin and published checksum before proceeding. Do not disable security protections.
 4. Connect your PC and Android device to the same local network. Allow the server through the firewall on trusted private networks only; do not expose it to the internet.
@@ -22,3 +22,4 @@ Check vJoy device 1, network address, private-network firewall rules and the con
 ## Updating
 
 Close the server before extracting a new release. Keep a backup of the previous installation and settings. Follow version-specific release notes.
+

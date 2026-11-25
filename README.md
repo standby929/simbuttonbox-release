@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/simbuttonbox.png" alt="SimButtonbox — Your old phone. Your new racing gadget." width="720"></p>
+﻿<p align="center"><img src="assets/simbuttonbox.png" alt="SimButtonbox â€” Your old phone. Your new racing gadget." width="720"></p>
 
 # SimButtonbox
 
@@ -8,7 +8,7 @@ Turn your Android phone or tablet into a wireless button box for PC sim racing. 
 
 ## Download
 
-[Windows releases](https://github.com/standby929/simbuttonbox-releases/releases)
+[Windows releases](https://github.com/standby929/simbuttonbox-release/releases)
 
 The project is currently in testing. The Android app is not yet publicly available on Google Play. If no release is listed, a public Windows build has not yet been uploaded.
 
@@ -27,6 +27,7 @@ See the [Windows setup guide](INSTALLATION.md). The Windows server must remain r
 
 ## Documentation
 
-[Installation](INSTALLATION.md) · [Changelog](CHANGELOG.md) · [License](LICENSE.txt) · [Privacy information (draft)](PRIVACY.md) · [Third-party notices](THIRD-PARTY-NOTICES.md)
+[Installation](INSTALLATION.md) Â· [Changelog](CHANGELOG.md) Â· [License](LICENSE.txt) Â· [Privacy information (draft)](PRIVACY.md) Â· [Third-party notices](THIRD-PARTY-NOTICES.md)
 
 This repository distributes compiled releases and documentation only. SimButtonbox is proprietary software, not an open-source project. Not affiliated with the developers of Le Mans Ultimate or vJoy.
+
