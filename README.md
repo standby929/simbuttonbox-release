@@ -1,4 +1,4 @@
-﻿<p align="center"><img src="assets/simbuttonbox.png" alt="SimButtonbox â€” Your old phone. Your new racing gadget." width="720"></p>
+<p align="center"><img src="assets/simbuttonbox.png" alt="SimButtonbox — Your old phone. Your new racing gadget." width="720"></p>
 
 # SimButtonbox
 
@@ -10,7 +10,9 @@ Turn your Android phone or tablet into a wireless button box for PC sim racing. 
 
 [Windows releases](https://github.com/standby929/simbuttonbox-release/releases)
 
-The project is currently in testing. The Android app is not yet publicly available on Google Play. If no release is listed, a public Windows build has not yet been uploaded.
+The first public Windows alpha is version **v0.1.0-alpha.1**. Download the Windows x64 ZIP and its SHA-256 checksum from the Releases page. This is a self-contained build; no separate .NET runtime installation is required.
+
+The project is currently in alpha testing. The Android app is not yet publicly available on Google Play and is required to use the server as a buttonbox.
 
 ## Features
 
@@ -19,6 +21,8 @@ The project is currently in testing. The Android app is not yet publicly availab
 - vJoy and keyboard action mapping.
 - Le Mans Ultimate telemetry and supported flag feedback.
 - English and Hungarian interface.
+- Built-in help and third-party license documentation.
+- Automatic startup and manual update checks through GitHub Releases (manual installation).
 - Android Free: fixed Default button group; planned Pro: customizable button groups.
 
 ## Getting started
@@ -27,7 +31,6 @@ See the [Windows setup guide](INSTALLATION.md). The Windows server must remain r
 
 ## Documentation
 
-[Installation](INSTALLATION.md) Â· [Changelog](CHANGELOG.md) Â· [License](LICENSE.txt) Â· [Privacy information (draft)](PRIVACY.md) Â· [Third-party notices](THIRD-PARTY-NOTICES.md)
+[Installation](INSTALLATION.md) · [Changelog](CHANGELOG.md) · [License](LICENSE.txt) · [Privacy information (draft)](PRIVACY.md) · [Third-party notices](THIRD-PARTY-NOTICES.md)
 
 This repository distributes compiled releases and documentation only. SimButtonbox is proprietary software, not an open-source project. Not affiliated with the developers of Le Mans Ultimate or vJoy.
-
