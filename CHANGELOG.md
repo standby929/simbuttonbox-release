@@ -2,6 +2,28 @@
 
 Published versions and their changes are also documented on the [GitHub Releases page](https://github.com/standby929/simbuttonbox-release/releases).
 
+## [0.1.0-alpha.3] - 2026-11-27
+
+### Added
+
+- WebSocket support for removing unused custom keyboard action registrations.
+
+### Fixed
+
+- Improved cleanup of custom keyboard actions when buttons or button groups are deleted.
+- Improved handling of modified keyboard shortcuts.
+- Safe release of active keyboard inputs before removing custom action registrations.
+
+### Improved
+
+- Custom action lifecycle and resource management.
+- Isolation of custom keyboard actions between connected Android devices.
+
+### Compatibility
+
+- Existing Android clients remain compatible.
+- Immediate custom action cleanup requires an updated Android client.
+
 ## [0.1.0-alpha.2] - 2026-11-27
 
 ### Added
