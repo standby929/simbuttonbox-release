@@ -2,6 +2,28 @@
 
 Published versions and their changes are also documented on the [GitHub Releases page](https://github.com/standby929/simbuttonbox-release/releases).
 
+## [0.1.0-alpha.2] - 2026-11-27
+
+### Added
+
+- LMU green flag detection at race start.
+- Player-specific chequered flag detection.
+- Drive Through (DT) penalty detection, including penalty reason.
+- Stop & Go (SG) penalty detection, including penalty duration and reason.
+- Automatic penalty clearance detection.
+- Race Control information on the Windows server's Game tab.
+- Extended WebSocket telemetry for Race Control events.
+
+### Improved
+
+- Race Control state management.
+- Extended LMU telemetry diagnostics.
+
+### Compatibility
+
+- Existing Android clients remain compatible.
+- Android visualization of the new Race Control signals will be introduced in a future mobile update.
+
 ## [0.1.0-alpha.1]
 
 ### Added
